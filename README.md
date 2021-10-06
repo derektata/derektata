@@ -1,10 +1,10 @@
-## Well, hello there 👋
+### Well, hello there 👋
 
 My name is Derek Tata.
 
 I like to tinker with software and help improve open source projects.
 
-## Contact
+### Contact
 
 [Discord] / [Email]
 
